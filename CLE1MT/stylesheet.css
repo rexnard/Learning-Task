@@ -1,0 +1,229 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    
+    
+}
+
+#wrapper{
+    width: 1850px;
+    min-height: 1500;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: rgba(64, 63, 63, 0.5); 
+    
+}
+#header{
+    width: 96%;
+    height: 150px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#header h1{
+    color: #E7ECEA;
+    font-size: 60px;
+    position: relative;
+    left: 550px;   
+}
+#navigation{
+    width: 92%;
+    height: 270px;
+    float: left;    
+}
+#navigation ul{
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    float: left;
+}
+#navigation a{
+    min-width: 40px;
+    padding: 20px;
+    margin: 5px;
+    float: left;
+    font-size: 30px;
+    text-decoration: none;   
+}
+#navigation a:link, #navigation a:visited{
+    border: 3px solid #E7ECEA;
+    color: #E7ECEA;   
+}
+#navigation a:hover{
+    border: 2px solid #98A1A1;
+    color: #98A1A1; 
+    
+}
+#content{
+    width: 98%;
+    min-height: 900px;
+    padding: 5px;
+    margin: 10px;
+    display: block;
+    position: relative;
+    top: 250px;
+}
+#content #content-wrapper{
+    width: 98%;
+    min-height: 900px;
+    padding: 5px;
+    margin: 10px;
+    display: block;
+    position: relative;
+    bottom: 30px;
+}
+#content #content-wrapper #about-text{
+    width: 60%;
+    min-height: 600px;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+    bottom: 250px;
+}
+#content #content-wrapper #about-text p{
+    font-size: 21px;
+    color: aliceblue;
+}
+#content #content-wrapper #about-text h1{
+    font-size: 41px;
+    color: aliceblue;
+}
+#content #content-wrapper #about-image{
+    width: 25%;
+    padding: 1px;
+    margin: 10px;
+    display: inline-block; 
+    
+}
+
+#box-one {
+    border: solid white;
+    color: aliceblue
+}
+#content #causes-wrapper{
+    width: 96%;
+    min-height: 800px;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+    bottom: 250px;
+}
+#content #causes-wrapper #causes-text h1{
+    font-size: 41px;
+    color: aliceblue;
+}
+#content #causes-wrapper #causes-text li{
+    font-size: 21px;
+    color: aliceblue;
+    list-style-type: none;
+    margin: 0px;
+    padding 0px;
+}
+#content #abouts-wrapper{
+    width: 96%;
+    min-height: 800px;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block; 
+    position: relative;
+    bottom: 250px;
+}
+#content #abouts-wrapper #abouts-text h1{
+    font-size: 41px;
+    color: aliceblue;
+}
+#content #abouts-wrapper #abouts-text p1{
+    font-size: 21px;
+    color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+#content #abouts-wrapper #abouts-text p2{
+    font-size: 21px;
+    color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+#content #abouts-wrapper #abouts-text p3{
+    font-size: 21px;
+    color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+#content #abouts-wrapper #abouts-text p4{
+    font-size: 21px;
+    color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+#content #abouts-wrapper #abouts-text p5{
+    font-size: 21px;
+    color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+#content #abouts-wrapper #abouts-text p6{
+    font-size: 21px;
+    color: aliceblue;
+    float: left;
+    padding: 10px;
+}
+#content #images-wrapper #first-image{
+    width: 100px;
+    padding: 10px;
+    margin: 0 auto;
+    position: relative;
+    right: 800px;
+}
+#content #images-wrapper #second-image{
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    position: relative;
+    left: 100px;  
+    float: left;
+}
+#content #images-wrapper #third-image{
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    position: relative;
+    left: 250px;
+}
+#content #images-wrapper #fourth-image{
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    position: relative;
+    right: 20px;
+    bottom: 1050px;
+    left: 100px;
+}
+#content #images-wrapper #fifth-image{
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    position: relative;
+    right: 600px;
+    bottom: 400px;
+}
+#content #images-wrapper #sixth-image{
+    width: 500px;
+    padding: 10px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 900px;
+    left: 500px;
+}
+#footer{
+    width: 96%;
+    min-height: 50px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    display: block;    
+}
+#footer h3{
+    color: aliceblue;
+}
