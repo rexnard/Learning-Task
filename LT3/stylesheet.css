@@ -1,0 +1,313 @@
+body{
+    
+    background-image: url(Free-gaming-wallpapers.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;       
+}
+#wrapper{
+    width: 2040px active;
+    min-height: 1800px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgba(88, 88, 88, 0.5)    
+}
+#header{
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;    
+}
+
+
+#box-one{
+    width: 288px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(narcos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+        
+}
+#box-two{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(spiderman.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+}
+#box-three{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(john-wick.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-four{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(Logan_Poster.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+}
+#box-five{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(wolverine.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-six{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(Infinity-War-1200x1775.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;   
+}
+#box-seven{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(endgame.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-eight{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(fast.and.furious.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-nine{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(gotham.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-ten{
+    width: 289px;
+    height: 650px;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(iron-man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.text-one{
+    color: aliceblue;
+    position: relative;
+    bottom: 45px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-two{
+    color: aliceblue;
+    position: relative;
+    bottom: 320px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-three{
+    color: aliceblue;
+    position: relative;
+    bottom: 182px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-four{
+    color: aliceblue;
+    position: relative;
+    bottom: 203px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-five{
+    color: aliceblue;
+    position: relative;
+    bottom: 181px;
+    right: 25px;
+    font-size: 20px;
+    background-color: black;
+}
+.text-six{
+    color: aliceblue;
+    position: relative;
+    bottom: 200px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-seven{
+    color: aliceblue;
+    position: relative;
+    bottom: 250px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-eight{
+    color: aliceblue;
+    position: relative;
+    bottom: 200px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-nine{
+    color: aliceblue;
+    position: relative;
+    bottom: 210px;
+    right: 25px;
+    font-size: 20px;
+    background-color: black;
+}
+.text-ten{
+    color: aliceblue;
+    position: relative;
+    bottom: 200px;
+    right: 25px;
+    font-size: 25px;
+    background-color: black;
+}
+.text-eleven{
+    color: aliceblue;
+    position: relative;
+    bottom: 205px;
+    right: 25px;
+    font-size: 30px;
+    background-color: black;
+}
+.text-twelve{
+    color: aliceblue;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-one{
+    color: aliceblue;
+    position: relative;
+    top: 475px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-two{
+    color: aliceblue;
+    position: relative;
+    top: 400px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-three{
+    color: aliceblue;
+    position: relative;
+    top: 525px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-four{
+    color: aliceblue;
+    position: relative;
+    top: 500px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-five{
+    color: aliceblue;
+    position: relative;
+    top: 525px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-six{
+    color: aliceblue;
+    position: relative;
+    top: 475px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-seven{
+    color: aliceblue;
+    position: relative;
+    top: 450px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-eight{
+    color: aliceblue;
+    position: relative;
+    top: 500px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-nine{
+    color: aliceblue;
+    position: relative;
+    top: 465px;
+    font-size: 20px;
+    background-color: black;
+}
+.test-content-ten{
+    color: aliceblue;
+    position: relative;
+    top: 485px;
+    font-size: 20px;
+    background-color: black;
+}
+
