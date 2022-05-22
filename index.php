@@ -11,6 +11,7 @@
         <li><a href="LT3">Learning Task 3</a></li>
         <li><a href="CLE1MT">CLE1MT</a></li>
         <li><a href="LT4">Learning Task 4</a></li>
+        <li><a href="LT5">Learning Task 5</a></li>
     </ul>
     </body>
 </html>
